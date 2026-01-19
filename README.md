@@ -4,6 +4,6 @@
 - 🌐 Django | REST APIs
 - 📍 Kochi, India
 - 📂 Projects: Django Web Apps
-- 📫 Email: yourmail@gmail.com
+- 📫 Email: jeevanjoy456@gmail.com
 
 
